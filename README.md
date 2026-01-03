@@ -14,6 +14,7 @@ This proposal is used to:
 3. Complete the `proposal.md` file.
 4. Commit all changes with clear commit messages
 5. Submit the repository URL via Brightspace if part of an assignment, or send it to me via email or discord message if you are undertaking this for extra credit.
+6. **Do not get started on this project until your proposal has been approved!**
 
 > Proposals are evaluated on clarity, feasibility, technical understanding, and planning.  While ambition is certainly a factor you need to demonstrate you have the understanding and capacity to complete the project!
 
